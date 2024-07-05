@@ -1,0 +1,4 @@
+[submodule "vinoslafavorita"]
+	path = vinoslafavorita
+	url = git@git.vauxoo.com:vauxoo/vinoslafavorita.git
+	branch = 17.0
